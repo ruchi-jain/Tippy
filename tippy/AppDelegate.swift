@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  tippy
 //
-//  Created by Jain, Vasu on 9/25/16.
+//  Created by Goel, Ruchi on 9/25/16.
 //  Copyright © 2016 Ruchi. All rights reserved.
 //
 
